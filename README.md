@@ -33,7 +33,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" 
 <img align="left" alt="VScode" width="28px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
                             
-<br />
+
 
 <h4> 👨🏻‍🤝‍👨🏻Socials </h4>
 
