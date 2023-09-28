@@ -18,7 +18,7 @@ Feel free to explore my work, and if you have any feedback, questions, or collab
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;4th+year+student" alt="Typing SVG" /></a>
 </p>
 
-#
+
 
 <h4>🧰 Languages and Tools</h4>
 
