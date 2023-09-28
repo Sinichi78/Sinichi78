@@ -11,14 +11,10 @@ Feel free to explore my work, and if you have any feedback, questions, or collab
 
 #
 
-
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;4th+year+student" alt="Typing SVG" /></a>
 </p>
-
-
 
 <h4>🧰 Languages and Tools</h4>
 
@@ -48,6 +44,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 ![Sinichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinichi78&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+<a href="https://github.com/sinichi78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinichi78&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
