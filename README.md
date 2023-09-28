@@ -41,10 +41,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 <h4> 📊 Stats </h4>
 
+
 ![Sinichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sinichi78&show_icons=true&theme=gruvbox)
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<a href="https://github.com/sinichi78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinichi78&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sinichi78" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinichi78&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
