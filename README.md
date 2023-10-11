@@ -1,7 +1,5 @@
 # Sinichi78
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinichi78&label=Profile%20views&color=0e75b6&style=flat" alt="sinichi78" /> </p>
-
 **`Student (Web Developer)`**
 
 
