@@ -1,7 +1,10 @@
 # Sinichi78
 
-**`Student (Web Developer)`**
-
+**` Student (Web Developer)`**  
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Sinichi78/count.svg" />
+</p>
 
 Hello there! 👋 I'm Paul Stephen Bayot, a passionate web developer in the making. Currently, I'm a fourth-year student with a burning enthusiasm for crafting digital experiences that make the web a better place. 
 
@@ -13,6 +16,7 @@ Feel free to explore my work, and if you have any feedback, questions, or collab
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=D8A52E&center=true&vCenter=true&width=435&lines=Web+Developer;4th+year+student" alt="Typing SVG" /></a>
 </p>
+
 
 <h4>🧰 Languages and Tools</h4>
 
