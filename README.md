@@ -1,10 +1,9 @@
 # Sinichi78
 
-**` Student (Web Developer)`**  
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sinichi78/count.svg" />
-</p>
+**` Student (Web Developer)`** 
+
+![](https://komarev.com/ghpvc/?username=Sinichi78&style=flat&color=yellow)
+
 
 Hello there! 👋 I'm Paul Stephen Bayot, a passionate web developer in the making. Currently, I'm a fourth-year student with a burning enthusiasm for crafting digital experiences that make the web a better place. 
 
